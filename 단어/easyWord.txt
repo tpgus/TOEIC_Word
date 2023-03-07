@@ -1,0 +1,495 @@
+refund`환불,환불하다,환불금@13
+establish`설립하다@21
+a dedicated and talented team`헌신적이고 유능한 팀@21
+practical`현실적인@08
+spend`소비하다@09
+fluent`유창한@01
+increasing`증가하는@19
+preferred customer`우대 고객@20
+assess`평가하다@24
+advisory`조언의,충고의,자문의@08
+auditor`회계 감사원@20
+habit`습관@02
+facility`시설@13
+apology`사과@13
+allocation`할당,할당량@20
+reference letter`추천서@01
+author`저자,작가@06
+conduct`수행하다@05
+paid holidays`유급휴가@01
+extreme`극한의,극도의,극단의@07
+express`나타내다,표현하다@20
+discuss`논의하다@08
+donate`기부하다@06
+reflect`반사하다,반영하다@07
+overhead`머리 위에@14
+announcement`공고,발표@05
+attract`관심을 끌다,매력적이다@01
+apology`사과@13
+appeal`호소하다,매력적이다,관심을 끌다,항소하다@01
+respect`존경하다@04
+amaze`놀라게하다@18
+abstract`추상적인@04
+overhead`머리 위에@14
+protective`보호의,보호용의@17
+actual`실제의,실질적인@08
+applicant`지원자,신청자@01
+assure`확실하게 하다,보장하다@16
+have an effect on`~에 영향을 미치다@02
+against all odds`모든 역경을 딛고@01
+confidence`자신,확신,신임@01
+confirmation`확인@16
+consulting firm`자문회사@20
+effortlessly`힘들지 않게@02
+admission fee`입장료@06
+adequate`충분한,적절한@08
+questionably`의심스럽게,의문스럽게@01
+qualify`자격을 주다@01
+creatively`창조적으로,독창적으로@08
+board`이사회,탑승하다,승선하다@14
+discover`발견하다@11
+overestimate`과대평가하다@05
+endurance`인내@01
+a great deal`다수의,상당량의@13
+briefly`간결하게,짧게@22
+oversea`해외@03
+collarborate`협력하다@15
+decide`결정하다@02
+unsatisfactory`불만족스러운@16
+principal`주요한,교장,장@02
+eagerly await`간절히 기다리다@08
+accept`받아들이다,수락하다@16
+neighbor`이웃@09
+attract`관심을 끌다,매력적이다@03
+encouragement`격려@24
+exterior`외부의,외관의@13
+abundant`풍부한@20
+engagement`약속,약혼@02
+overestimate`과대평가하다@05
+proof of employment`재직증명서@01
+strategically`전략적으로@08
+exceptional`예외적인,뛰어난@02
+on time`제때,정각에@03
+satisfactory`만족스러운@13
+required`필수적인,요구되는@01
+attraction`관심,매력,관광명소@08
+adjourn`(재판,회의 등을)중단하다,휴정하다@20
+carry out`수행하다@05
+cooperation`협력@07
+standardize`표준화하다@02
+convenient`편리한@09
+reaction`반응@17
+overcharge`과하게 청구하다@16
+destructive`파괴적인@08
+statement`성명,진술,서술@13
+total`합산하다,완전한@20
+independent`독립적인,독자적인@21
+creativity`창조성,독창성@08
+mean`의미하다@08
+receive`받다@18
+promise`[promise]약속하다,~일 것 같다@09
+excluding`~을 제외하고@07
+creatively`창조적으로,독창적으로@08
+destiny`운명@14
+feasible`실현가능한@08
+consistent`일관된,변함없는@07
+inexperienced`경험없는,미숙한@24
+creative`창조적인,독창적인@08
+promote`홍보하다,촉진하다,승진시키다@08
+cost-effective`효율적인 비용@09
+reservation`예약,보존구역@18
+do one's best`최선을 다하다@07
+facility`시설@13
+efficient`효율적인@07
+receive`받다@18
+priority`우선순위,우선권,우선사항@04
+adequate`충분한,적절한@20
+accomplishment`성취@04
+convenient`편리한@13
+delight`기쁨@06
+supervise`관리하다,감독하다,지휘하다@01
+confirmation`확인@16
+regulation`규정@02
+satisfactory`만족스러운@13
+let go`놓아주다@02
+reservation`예약,보존구역@18
+at all times`항상,언제나@02
+attractive`매력적인,관심을 끄는@08
+satisfy`만족시키다@01
+assure`확실하게 하다,보장하다@14
+defect`결점,결함@13
+indicator`지표@09
+storeroom`창고,저장실@16
+advance reservation`사전예약@07
+endeavor`노력,노력하다@08
+revised edition`개정판@03
+adjourn`(재판,회의)등을 중단하다,휴정하다@01
+receive`받다@18
+creativity`창조성,독창성@08
+plenty of`풍부한,많은@08
+dedication`헌신,전념@13
+expiry`만료@15
+promotion`승진,홍보@24
+plenty of`풍부한,많은@08
+penalty`벌금,벌칙@02
+determination`결정@22
+in conclusion`결론적으로@22
+convenient`편리한@13
+convenience`편리@13
+keynote speaker`찬조 연설자@22
+merchant`상인@16
+be owned by`~의 소유이다@20
+suitcase`여행가방@14
+persuade`설득하다@05
+limited sale`한정 판매@09
+implement`수행하다,실시하다,도구@04
+assure`확실하게 하다,보장하다@16
+wrist watch`손목시계@03
+popular`인기있는,대중적인,일반적인@06
+add`더하다@07
+tasty`맛있는@18
+announcement`공고,발표@05
+expectation`예상,기대,전망@07
+decision`결정@02
+conference`회의@01
+devote`바치다,쏟다@13
+closely inspect`면밀히 점검하다,엄밀히 조사하다@02
+reserve`예약하다,보존하다@07
+rare`드문@20
+conduct`수행하다@05
+suitable`적절한@18
+creative`창조적인,독창적인@08
+a wealth of`풍부한@16
+popular`인기있는,대중적인,일반적인@06
+accessibility`이용,접근성@02
+feature`특징,특징으로 삼다@19
+apology`사과@13
+apology`사과@13
+endeavor`노력,노력하다@08
+engineering`공학@19
+persuade`설득하다@22
+endure`견디다,참다@02
+unsuccessful candidate`불합격자,낙선자@16
+dynamic`활동적인,역동적인@08
+transfer`옮기다,이동하다,양도하다,(환승),전근@14
+destroy`파괴하다@08
+compare`비교하다@07
+merger and acquisition`인수합병@16
+include`포함하다@23
+off-season`비수기@15
+assessment`평가@24
+valid`유효한,타당한@07
+figure out`알아내다@01
+run a campaign`캠페인을 벌이다@07
+attractive`매력적인,관심을 끄는@08
+allocate`할당하다@20
+attraction`관심,매력,관광명소@08
+efficient`효율적인@03
+obey`복종하다,따르다@02
+master's degree`석사학위@01
+contemporary`동시대의,현대의,당대의@08
+oil painting`유화@06
+promote`홍보하다,촉진하다,승진시키다@08
+return`수익,되돌리다,되돌아오다@13
+first come first serve`선착순@13
+underestimate`과소평가하다@24
+dinner`식사@01
+popularity`평판,인기@07
+present`제시하다,제공하다,현재의,참석한@13
+biweekly`격주의,격주로@22
+familiar`친숙한,익숙한@01
+inadequate`불충분한,부적절한@08
+eagerly await`간절히 기다리다@08
+strategy`전략@08
+persuasively`설득력 있게@22
+chemist`화학자@11
+water-resistant`방수의@13
+oversea`해외@01
+anonymously`익명으로@21
+revised`수정된,변경된@02
+immediately`즉각적으로@02
+steady seller`스테디셀러@08
+a dedicated and talented team`헌신적이고 유능한 팀@21
+accept`받아들이다,수락하다@16
+proposed`제안된@05
+be advised to do`~할 것을 권유받다@01
+year-end`연말의@20
+endure`견디다,참다@01
+record high`최고 기록@20
+touch up a photograph`사진을 조금 수정하다@06
+amaze`놀라게하다@18
+dependent`의존적인@13
+introduce`소개하다,도입하다@08
+advertisement`광고@02
+include`포함하다@23
+experiment`실험@08
+inexperienced`경험없는,미숙한@24
+required`필수적인,요구되는@06
+expense`비용,지출@19
+tasty`맛있는@18
+expect`예상하다,기대하다@07
+supervise`관리하다,감독하다,지휘하다,통제하다@02
+recruit`모집하다@01
+rush`서두르다@08
+quantity`양@11
+merchant`상인@16
+facilitate`가능하게하다,촉진하다@13
+depart`출발하다@14
+diligent`성실한@01
+fluent`유창한@07
+reset`다시 맞추다@20
+irregular`불규칙적인,비정기적인@19
+guest speaker`찬조 연설자@22
+tendency`경향,성향,추세@08
+store gift vouchers are redeemable at any branch`선물 상품권은 어느 지점에서나 교환할 수 있다.@10
+easy`편안한,쉬운@18
+release date`발표날짜,출시날짜@07
+identical`동일한@01
+manage`관리하다,운영하다,경영하다@01
+expense`비용,지출@19
+under the supervision of`~의 감독하에@02
+place an emphasis on`~을 강조하다@22
+shore`해안@20
+reservation`예약,보존구역@18
+inspection`조사,점검@02
+impressive`인상적인,감동적인@15
+decide`결정하다@02
+responsibility`책임@23
+commensurate`비례한,액수가 상응하는@01
+refund`환불,환불하다,환불금@13
+prioritize`우선적으로 처리하다,우선순위를 매기다@13
+astonishing`놀라운@07
+barely`겨우,간신히,거의 ~하지 않는@20
+persuasive`설득력있는@22
+attract`관심을 끌다,매력적이다@08
+desire`갈망하다,갈망,욕구@08
+polite`공손한,예의바른@13
+rush`서두르다@08
+convenient`편리한@09
+unfamiliar`익숙하지 않은@01
+satisfactory`만족스러운@16
+in luck`운이좋은@03
+diligence`성실@01
+merger and acquisition`인수합병@16
+protective`보호의,보호용의@17
+commercial`상업적인,광고@16
+habitual`습관적인@02
+chief`주요한,최고위의@05
+eagerness`열의@01
+replace`교체하다,대체하다@13
+unlimited`무제한의@14
+fall`떨어지다@09
+partially`부분적으로@16
+creative`창조적인,독창적인@08
+manpower`인력@01
+cross his(one's) arms`팔짱끼다@05
+frankly`솔직히@13
+criticize`비판하다@13
+limited offer`제한된 제공,한정된 제공@09
+satisfactory`만족스러운@13
+inflationary`인플레이션의@20
+chemist`화학자@12
+curtailment`삭감@20
+obtainable`획득할 수 있는@25
+advice`충고@05
+make no exception`예외를 두지 않다@08
+endurance`인내력@02
+politeness`공손함@13
+satisfying`만족스러운@16
+requirement`요구조건,필요조건@01
+in the direction of`~의 방향으로@20
+impress`감명시키다,감동시키다,깊은 인상을 주다@15
+cooperative`협력하는,협력적인@07
+recruiter`모집하는 사람@01
+suitable`적절한@07
+expense`비용,지출@20
+facility`시설@13
+progress`진척,진전,나아가다,진행하다@02
+effortlessly`힘들지 않게@02
+generate`발생시키다,야기하다@20
+favor`호의,친절@08
+reimbursement`상환,배상@20
+incremental`증가의@20
+inform`알리다,통지하다@07
+bring together`모으다@20
+negotiate`협상하다@15
+beyond one's expectaions`기대 이상으로@07
+commit`저지르다,전념하다,헌신하다@13
+spectator`관중@01
+replace`교체하다,대체하다@13
+mediate`중재하다,조정하다@21
+work extended hours`연장근무를 하다@05
+confident`자신있는@04
+supervision`관리,지휘,감독,통제@01
+go to a film`영화보러 가다@06
+commitment`전념,헌신@01
+supervision`지휘,감독,관리@02
+catering service`출장 요리 서비스@18
+formal`격식있는,공식적인@05
+attend`참석하다@03
+devoted`헌신적인,전념하는@13
+increase`증가하다,증가@01
+repeatedly`반복하여,되풀이하여@08
+desire`갈망하다,갈망,욕구@08
+subside`가라앉다,진정되다,침하되다@21
+attract`관심을 끌다,매력적이다@08
+dynamic`활동적인,역동적인@08
+announce`알리다@05
+browse`둘러보다,훑어보다@20
+shorten`줄이다,짧게하다@20
+chemist`화학자@12
+adequately`충분히,적절히@20
+steadily`꾸준히@08
+encourage`용기를 복돋우다,격려하다,장려하다@19
+inconvenient`불편한@13
+conference`회의@22
+incompetent`무능한@13
+advise`충고하다,조언하다,알리다@08
+adjournment`연기,휴정@20
+generation gap`세대차이@15
+assuredly`틀림없이,확실히@20
+backseat`뒷자리@15
+conduct`수행하다@05
+astonishingly`놀랍게도@07
+resolve`해결하다@08
+at all times`항상,언제나@02
+by a considerable margin`상당한 차이로@20
+manage`관리하다,운영하다,경영하다@01
+independent`독립적인,비의존적인,독자적인@24
+inconvenient`불편한@13
+collarborative`협력적인@15
+reveal`드러내다,밝히다,폭로하다@13
+unsatisfactory`불만족스러운@16
+evaluate`평가하다@24
+forget`잊다,잊어버리다@07
+represent`대신하다,대표하다@16
+be suited for`~에 적절하다,어울리다@20
+activate`작동시키다,활성화시키다@20
+category`범주,부분@20
+interrupt`방해하다,중단시키다@05
+seating chart`좌석 배치도@22
+consistent`일관된,변함없는@02
+advance reservation`사전예약@03
+catering service`출장 요리 서비스@18
+constant`끊임없는,지속적인@05
+decade`10년@01
+indoor`실내의@21
+unemployment`실업@01
+carry out`수행하다@05
+inquire`묻다,문의하다@01
+tendency`경향,성향,추세@08
+financial`금융의,재정의@20
+assure`보장하다,확실하게 하다@13
+overcome`극복하다@20
+commitment`전념,헌신@13
+curriculum vitae`이력서@01
+familiar`친숙한,익숙한@01
+work extended hours`연장근무를 하다@05
+make a commitment to`~에 헌신하다,전념하다@01
+creativity`창조성,독창성@08
+in the middle of`중간에@22
+ensure`확실하게 하다,보장하다@14
+comply`준수하다,따르다@02
+remain`남다,남아있다@05
+set down to work`일에 착수하다@03
+conversion`전환,개조@20
+trigger`야기하다,유발하다@05
+constant`끊임없는,지속적인@07
+certain`특정한,확실한@13
+impress`감명시키다,감동시키다@08
+misuse`남용,오용@20
+convenient`편리한@13
+standard`기준,표준@02
+dealer`판매자,상인@16
+have recently p.p / has recently p.p`최근에 ~했다@20
+conceal`감추다@13
+A be (followed by) B`A다음에 B가 오다,A다음에 B가 뒤따르다@20
+adopt`입양하다,채택하다@08
+leisure`여가@09
+flower arrangement`꽃꽂이@06
+luncheon`오찬,점심@22
+advance reservation`사전예약@03
+aloud`큰 소리로@22
+pharmacist`약사@13
+confirm`확인하다@16
+wharf`부두@01
+irretrievable`되돌릴 수 없는@07
+approve`승인하다,찬성하다@02
+consistent`일관된,변함없는@20
+hope`바라다,기대하다@19
+hope`바라다,기대하다@19
+dealer`판매자,상인@16
+destroy`파괴하다@08
+creatively`창조적으로,독창적으로@08
+propose`제안하다@15
+practical`현실적인@08
+particular`특정한,세부사항@17
+with emphasis`강조하여@22
+eligible`자격있는,적격의@07
+assure`보장하다,확실하게 하다@13
+at a fast pace`빠른 속도로@20
+flyer`전단지,광고지@01
+destructive`파괴적인@22
+contemporary`동시대의,현대의,당대의@08
+remain`남다,남아있다@09
+conduct`수행하다@05
+local time`현지시간@22
+set up a date`날짜를 잡다@20
+promotion`승진,홍보@24
+impolite`무례한@13
+efficiency`효율성@12
+a great deal`상당량@08
+abundant`풍부한@20
+corrective`바로잡는,수정의@20
+hesitate`망설이다,주저하다@15
+be absent form`~에 결석하다,@02
+recruitment`모집@01
+collarborator`협력자@15
+satisfactory`만족스러운@16
+effortlessly`힘들지 않게@02
+effectiveness`효율성@12
+a great deal`다수의,상당량의@13
+group rate`단체 요금@06
+resolve`해결하다@08
+have a tendency to do`~하는 경향이 있다@08
+advise`충고하다,조언하다,알리다@08
+economist`경제학자@09
+conventional wisdom`사회적 통념@02
+certain`특정한,확실한@13
+devote`바치다,쏟다@13
+assure`확실하게 하다,보장하다@14
+occupation`직업,점유@01
+promotional`홍보의@24
+rigorously`엄격하게@20
+advisor`조언자,충고자@08
+upcoming mayoral election`곧 있을 시장 선거@06
+chemist`화학자@11
+confidence`자신,확신,신임@04
+owed`빚진@06
+reasonably`상당히,꽤,합리적으로@16
+accelerate`가속화하다@17
+progress`진행하다,나아가다,진전,진척,진보@18
+place an order`주문하다@12
+call together`소집하다@12
+manufacture`제조,제조하다@12
+chemist`화학자@12
+efficient`효율적인@12
+inefficiency`비효율성@12
+operate`작동하다,운영하다@12
+efficiency`효율성@12
+manufacturer`제조업자,제조회사@12
+at no charge`무료로@13
+satisfactory`만족스러운@13
+convenient`편리한@13
+facility`시설@13
+reveal`드러내다,밝히다,폭로하다@13
+commitment`전념,헌신@13
+deal with`처리하다,다루다@13
+return a phone call`답변 전화를 하다@13
+submit a proposal`제안서를 제출하다@15
+voice`말로 표현하다,의견을 제시하다,제기하다,목소리@08
+steady seller`스테디셀러@08
+habitual`습관적인@02
+efficient`효율적인@03
+perform`수행하다@03
+orient`지향하게하다,맞추다,적응하다@03

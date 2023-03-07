@@ -1,0 +1,148 @@
+devise`발명하다,고안하다
+contrive`성사시키다,어떻게든 ~하다,고안하다
+revolution`혁명
+innovate`혁신하다
+innovation`혁신
+feature`특징,특징으로 삼다,포함하다
+character`성격,특징
+characteristic`특유의(형),특징(명)
+incorporate`포함하다,설립하다
+incorporated`(주식)회사,포함된,설립된
+inspire`격려하다,영감을 주다
+patent`특허를 얻다,특허,특허품
+sufficient`충분한
+deficit`적자,손해,결함
+defect`결함
+deficient`결함이있는,불충분한
+envision`계획하다,상상하다
+extent`범위,규모,한도
+lengthen`연장하다
+grant`승인하다,인정하다,보조금
+take ( A ) for granted`~을 당연하게 여기다
+handheld`휴대용의
+allowance`보조금,용돈,(허용치)
+allowable`허용되는
+improve`향상시키다,개선하다
+appearance`겉모습,외관,출현
+outlook`관점,전망,겉모습,외관
+respond`응답하다
+response`응답
+in response to`~에 응하여
+explore`조사하다,탐험하다
+manual`설명서,수동의,손으로 하는
+advance`전진,진보,발전,전진하다,진전되다
+advancement`전진,진보,발전,승진
+advanced`진보된,발전된,고급의
+in advance`미리 사전에
+advance in`~의 진보,~의 발전,~의 진전
+rely`의존하다,의지하다,신뢰하다
+reliant`의존하는
+reliability`신뢰성
+reliable`믿을만한
+trustworthy`믿을만한
+dependable`믿을만한
+domestic`국내의,국산의
+updated`최신의
+develop`개발하다,발달시키다
+developed`발전된,진보된
+development`개발,발전
+developing contries / developing nations / developing economies`개발 도상 국가들
+available`이용가능한,시간이 있는
+availability`이용성(유용성),유효성
+accurate`정확한
+complicated`복잡한
+complicate`복잡하게 만들다
+inquire`묻다,문의하다
+inquiry`문의,질문
+manufacture`제조,제조하다
+manufacturer`제조업자,제조회사
+absolute`완전한,절대적인
+absolutely`완전히,절대적으로
+complete`완전한,완료하다,완성하다
+utter`완전한
+absolute minimum`완전 최소로
+superior`우수한,상급의/상급자,상관,윗사람
+superiority`우월함
+inferior`열등한,하급의
+compatible`호환되는,양립할수 있는
+compatibility`호환성,양립성
+remote`원격의,외진,외딴,(시간상으로)먼
+remote past / remote future`먼 과거에,먼 미래에
+corrode`부식하다
+corrosion`부식
+resist`저항하다
+erosion`침식
+coastal`해안의 / coast 해안
+widen`넓히다
+broaden`넓히다
+broad`넓은
+breadth`폭,너비
+breath`숨
+scope`기회,범위
+multiply`곱하다,증가시키다
+brand new`최신의
+close down`폐쇄하다,폐업하다
+historic`역사적인,중요한
+a series of`일련의~
+come up with`떠올리다,생각해 내다
+laboratory`실험실
+latest work`최신작품
+out-of-date`구식의,시대에 뒤떨어진
+trial period`시범기간,시험기간
+up-to-date`최신의
+waterproof`방수의
+aside from`~을 제외하고
+composition`구성,작곡
+complement`보완하다
+durable`튼튼한,내구성이있는
+interpret`해석하다,설명하다
+interpretation`해석,설명
+predict`예측하다
+remnant`나머지
+screen`심사하다
+suspend`중단하다,매달다
+favorable`호의적인,순조로운
+unfavorable`불리한,호의적이지 않은,순조롭지 않은
+breakthrough`비약적인 발전
+collaboration`공동 작업,공동 연구,협력
+custom-built`주문 제작된
+customize`주문 제작하다
+disrupt`방해하다,중단시키다
+disruption`방해,중단,혼란
+energy source`에너지원
+guidance`안내
+keep (one's) eye on`눈을 떼지 않다,감시하다
+hectic`몹시 바쁜
+intently`오로지,골똘하게,주의깊게
+ornament`장식품
+ornamantal`장식의
+reassign`다시할당하다,다시 맡기다
+specimen`견본,샘플
+apparatus`[애퍼레이터스]기구,장치
+concession`양보,(당국의)면허,인정
+status`자격,지위,상태
+concurrent`동시에 발생하는,공존하는
+concurrently`동시에
+configure`설정하다
+configuration`배치,배열,설정 / reconfiguration 구조변경
+detectable`감지할 수 있는
+distill`증류하다,불순물을 제거하다
+dysfunction`기능 장애,(사회적인)역기능
+embeded`삽입된,포함된
+evolve`발달하다,진화하다
+flammable`불에 잘타는,인화성의
+implant`이식하다,심어주다
+patronize`단골로 삼다,거래하다,후원하다,애용하다
+staple`주요한,기본 식품
+steer`조종하다
+sturdy`튼튼한,확고한,완강한
+sturdily`튼튼하게,확고하게,완강하게
+transparent`투명한
+streamline`효율적으로 하다,간소화하다
+state-of-the-art`최신의
+cutting-edge`최첨단의
+top-of-the-line`최고급의
+obsolete`쓸모가 없는,안 쓰이는
+bring out`출시하다,(능력을)발휘하다
+bewilder`당황하게 만들다
+be geared to`~에 맞춰져 있다

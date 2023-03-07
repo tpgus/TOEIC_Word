@@ -1,0 +1,161 @@
+audit`회계감사,회계감사하다,청강하다,검사
+accounting`회계
+finance`금융,재정,자금,자금을 조달하다
+financial`금융의,재정의
+financing`자금 조달
+fund`기금,자금,자금을 조달하다
+funding`자금,자금 조달
+curtail`삭감하다,줄이다
+curtailment`삭감
+reserve`예약하다,보존하다,예비의
+reserve fund`예비 자금
+shortfall`부족량,부족분
+lately`최근에
+have recently p.p / has recently p.p`최근에 ~했다
+proceed`진행하다,나아가다
+proceeds`수익금
+reimburse`상환하다,배상하다
+reimbursement`상환,배상
+commensurate`비례하는,상응하는
+adequate`충분한,적절한
+adequacy`타당성,적절함,충분함
+adequately`충분히,적절히
+total`합산하다,전체의,완전한
+totally`전적으로,전체적으로,완전히
+allocate`할당하다
+allocation`할당,할당량
+charity benefit`자선행사
+charity`자선,자선단체,관용
+preferred`선호되는,우선하는
+preferred customer`우대 고객
+preferential`우대하는,특혜를 주는
+quarter`사분기,4분의1
+quarterly`분기별의
+browse`둘러보다,훑어보다
+deduct`제외하다,공제하다
+deduce`추론하다
+deduction`제외,공제,추론
+measurement`측정,치수(크기,길이,양)
+cash position`현금 유동성
+track`추적하다,흔적,자취
+amend`수정하다,개정하다
+amendment`수정,개정
+amendable`수정할 수 있는,개정할 수 있는
+exempt`면제하다,면제된
+exemption`면제
+deficient`불충분한,결함이 있는
+deficiency`부족,결핍,결점,결함
+deficit`적자,손해,결함
+fortune`재산,행운
+fortunate`운이 좋은	
+expend`쏟다(바치다),지출하다,소비하다
+assured`자신있는,확실한,보장된
+assuredly`틀림없이,확실히
+worth`가치,~의 가치가 있는
+worthy`가치있는,자격이있는,훌륭한
+worthwhile`가치있는
+in excess of`~을 초과하여
+excessively`과도하게,지나치게
+fiscal`회계의,재정의
+fiscal operations`회계 업무
+incident`일,사건
+incidental`부수적인,우연한
+incidentally`부수적으로,우연히
+incidental expense`부수적인 비용(부대비용=배송비,설치비,보험비 등)
+inflate`부풀리다,팽창하다,인상하다
+inflation`물가 상승,인플레이션
+inflationary`인플레이션의
+liable`책임이있는,~하기 쉬운
+be liable for`~에 대한 책임이 있다
+be ( liable to ) SOMETHING`~하기 쉽다
+liability`책임,채무,부채
+expense`비용,지출
+misuse`남용,오용
+guarantor`보증인
+research and development spending`연구 개발 비용
+turnover`매출,이직률
+turn over`뒤집다,뒤집히다
+abundant`풍부한
+shore`해안
+express`나타내다,표현하다
+expressive`나타내는,표현하는
+generate`발생시키다,야기하다
+overcome`극복하다
+rare`드문
+shortcoming`결점,단점
+bring together`모으다
+flawless`결점없는
+phenomenon`현상
+record high`최고 기록
+reset`다시 맞추다
+sequel`결과,속편
+sharpen`날카롭게 하다,선명하게 하다
+accountant`회계사
+A and B alike`A와 B모두 마찬가지로
+corrective`바로잡는,수정의
+displace`대신하다,대체하다,옮겨놓다 / misplace 잘못 두다,잃어버리다
+far from`결코 ~이 아닌,~에서 먼
+frequency`빈도
+keep to oneself`비밀로 하다,독차지 하다
+overly`몹시,지나치게
+take after`~을 닮다
+year-end`연말의
+stringent`엄격한,긴박한
+statistics`통계학
+pros and cons`이해득실,장단점
+pretax`세금을 포함한
+preclude`못하게 하다,불가능하게 하다
+precedent`전례
+plus tax`세금 별도
+ledger`회계장부
+increment`임금 인상,증가
+incremental`증가의
+clement`온화한,관대한
+inclement`안 좋은,냉혹한
+discrepant`모순된,일관성없는
+discrepancy`불일치,차이,모순
+classification`분류,등급
+by a considerable margin`상당한 차이로
+cash reserves`보유 현금
+break-even point`손익 분기점
+be in the red`적자 상태이다
+be in the black`흑자 상태이다
+back order`이월된 주문
+amply`충분하게,풍부하게
+whereabout`소재,행방
+cut one's losses`손실을 줄이다
+consistent`일관된,변함없는
+consistency`일관성
+inconsistent`모순되는,일관성없는
+inconsistency`불일치,모순
+relevant`관련있는,유의미한
+relevance`적절함,타당성,관련성
+reliably`신뢰할 수 있게,확실히
+substantive`실질적인
+substantively`사실상,실질적으로
+vary from A to B`A에서 B까지 다양하다
+adjourn`(재판,회의 등을)중단하다,휴정하다
+adjournment`연기,휴정
+well in advance`훨씬 앞서서
+rigor`[리걸]엄격한
+rigorously`엄격하게
+place of origin`원산지
+outlay`지출,비용,소비
+monetary`금전의,화폐의,통화의,재정적인
+digit`숫자
+converse`대화를 나누다,정반대
+conversion`전환,개조
+common interest`공동의 이익,공동 관심사
+collectively`집합적으로,총괄하여 / collective=집합의,단체의,공동의(형),공동 사업체(명)
+category`범주,부분
+bound for`(기차,배가)~로 향하는
+bookkeeper`경리(회계 장부 담당자)
+be suited for`~에 적절하다,어울리다
+be owned by`~의 소유이다
+barely`겨우,간신히,거의 ~하지 않는
+add up to`합계가 ~이다,결국 ~이 되다
+activate`작동시키다,활성화시키다
+a string of`일련의,여러개의
+A be (followed by) B`A다음에 B가 오다,A다음에 B가 뒤따르다
+assured`자신있는,확실한,보장된
+converse`대화를 나누다,정반대
