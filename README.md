@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary><h4>빠른 단어 암기를 위한 키보드 방향키 기준 UI 배치</h4></summary>
+<summary><h4>빠른 단어 암기를 위한 방향키 기준 UI 배치</h4></summary>
 <div markdown="1">
 
 ![ezgif com-video-to-gif (6)](https://user-images.githubusercontent.com/43470398/223604470-034e63d7-caf9-4558-a753-fa33613a04ef.gif)
